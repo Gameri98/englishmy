@@ -1,27 +1,22 @@
 [
     {
-        "q": "What is the standard distance between the target and archer in Olympics?",
-        "o": ["50 meters", "70 meters", "100 meters", "120 meters"],
-        "a": 1
-    },
-    {
-        "q": "Which is the highest number on a standard roulette wheel?",
-        "o": ["22", "24", "32", "36"],
-        "a": 3
-    },
-    {
-        "q": "How much wood could a woodchuck chuck if a woodchuck would chuck wood?",
-        "o": ["400 pounds", "550 pounds", "700 pounds", "750 pounds"],
+        "q": "Which sentence is in the present simple tense?",
+        "o": ["She is going to the store.", "They will study for the exam.", "I eat breakfast every morning.", "He has finished his homework."],
         "a": 2
     },
     {
-        "q": "Which is the seventh planet from the sun?",
-        "o": ["Uranus", "Earth", "Pluto", "Mars"],
-        "a": 0
+        "q": "What is the correct form of the verb 'to do' in the present simple for 'he'?",
+        "o": ["do", "does", "did", "done"],
+        "a": 1
     },
     {
-        "q": "Which is the largest ocean on Earth?",
-        "o": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
-        "a": 3
+        "q": "Which sentence is in the present simple tense?",
+        "o": ["We have been to Paris.", "She is playing tennis.", "He reads books every day.", "I will go to the party."],
+        "a": 2
+    },
+    {
+        "q": "What is the correct form of the verb 'to have' in the present simple for 'you'?",
+        "o": ["has", "have", "had", "having"],
+        "a": 1
     }
 ]
