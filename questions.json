@@ -1,27 +1,102 @@
 [
     {
         "q": "Which sentence is in the present simple tense?",
-        "o": ["She is going to the store.", "They will study for the exam.", "I eat breakfast every morning.", "He has finished his homework."],
-        "a": 2
+        "o": ["She goes to the store.", "They will study for the exam.", "I am eating breakfast.", "He has finished his homework."],
+        "a": 0
     },
     {
-        "q": "What is the correct form of the verb 'to do' in the present simple for 'he'?",
-        "o": ["do", "does", "did", "done"],
+        "q": "What is the correct form of the verb 'to be' in the present simple for 'I'?",
+        "o": ["is", "am", "are", "be"],
         "a": 1
     },
     {
         "q": "Which sentence is in the present simple tense?",
-        "o": ["We have been to Paris.", "She is playing tennis.", "He reads books every day.", "I will go to the party."],
+        "o": ["We are going to the cinema.", "She goes to work every day.", "He will be playing football.", "I have eaten dinner."],
+        "a": 1
+    },
+    {
+        "q": "What is the correct form of the verb 'to go' in the present simple for 'she'?",
+        "o": ["go", "goes", "went", "going"],
+        "a": 1
+    },
+    {
+        "q": "Which sentence is in the present simple tense?",
+        "o": ["She is going to the store.", "They study for the exam.", "I will eat breakfast.", "He has finished his homework."],
+        "a": 1
+    },
+    {
+        "q": "What is the correct form of the verb 'to eat' in the present simple for 'I'?",
+        "o": ["eat", "eats", "ate", "eating"],
+        "a": 0
+    },
+    {
+        "q": "Which sentence is in the present simple tense?",
+        "o": ["I am reading a book.", "They have gone to the park.", "She walks to school.", "He will finish his work."],
         "a": 2
     },
     {
-        "q": "What is the correct form of the verb 'to have' in the present simple for 'you'?",
+        "q": "What is the correct form of the verb 'to read' in the present simple for 'they'?",
+        "o": ["read", "reads", "reading", "readed"],
+        "a": 0
+    },
+    {
+        "q": "Which sentence is in the present simple tense?",
+        "o": ["She is going to the store.", "They will study for the exam.", "I eat breakfast every morning.", "He has finished his homework."],
+        "a": 2
+    },
+    {
+        "q": "What is the correct form of the verb 'to have' in the present simple for 'we'?",
         "o": ["has", "have", "had", "having"],
         "a": 1
     },
     {
         "q": "Which sentence is in the present simple tense?",
-        "o": ["She is going to the store.", "They will study for the exam.", "I eat breakfast every morning.", "He has finished his homework."],
+        "o": ["She is going to the store.", "They study for the exam.", "I eat breakfast every morning.", "He has finished his homework."],
         "a": 2
+    },
+    {
+        "q": "What is the correct form of the verb 'to play' in the present simple for 'he'?",
+        "o": ["play", "plays", "playing", "played"],
+        "a": 1
+    },
+    {
+        "q": "Which sentence is in the present simple tense?",
+        "o": ["We have finished the project.", "She runs every morning.", "He is watching TV.", "I will travel to Spain."],
+        "a": 1
+    },
+    {
+        "q": "What is the correct form of the verb 'to go' in the present simple for 'I'?",
+        "o": ["go", "goes", "going", "went"],
+        "a": 0
+    },
+    {
+        "q": "Which sentence is in the present simple tense?",
+        "o": ["She is singing.", "They will go to the beach.", "I read books every day.", "He has completed the task."],
+        "a": 2
+    },
+    {
+        "q": "What is the correct form of the verb 'to do' in the present simple for 'we'?",
+        "o": ["do", "does", "did", "doing"],
+        "a": 0
+    },
+    {
+        "q": "Which sentence is in the present simple tense?",
+        "o": ["I am going to the store.", "They have studied for the exam.", "She eats breakfast every morning.", "He will finish his homework."],
+        "a": 2
+    },
+    {
+        "q": "What is the correct form of the verb 'to be' in the present simple for 'they'?",
+        "o": ["is", "am", "are", "be"],
+        "a": 2
+    },
+    {
+        "q": "Which sentence is in the present simple tense?",
+        "o": ["She will go to the store.", "They are studying for the exam.", "I have breakfast every morning.", "He is finishing his homework."],
+        "a": 2
+    },
+    {
+        "q": "What is the correct form of the verb 'to work' in the present simple for 'she'?",
+        "o": ["work", "works", "working", "worked"],
+        "a": 1
     }
 ]
